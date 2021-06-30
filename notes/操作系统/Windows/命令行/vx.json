@@ -1,19 +1,10 @@
 {
     "created_time": "2018-11-13T08:12:02Z",
     "files": [
-        {
-            "attachment_folder": "20181115082502625_18249",
-            "created_time": "2018-11-13T08:12:17Z",
-            "id": "16",
-            "modified_time": "2018-11-13T08:12:17Z",
-            "name": "DOS批处理高级教程精选合编.md",
-            "tags": [
-                "dos"
-            ]
-        }
     ],
     "folders": [
     ],
     "id": "15",
+    "modified_time": "",
     "version": "1"
 }
